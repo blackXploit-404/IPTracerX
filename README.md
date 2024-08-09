@@ -82,8 +82,8 @@ IP Information Script
 4. Help
 5. Exit
 Choose an option [1-5]: 1
-Enter the IP address: 49.37.11.225
-Fetching information for IP: 49.37.11.225
+Enter the IP address: xx.xx.xx.xxx
+Fetching information for IP: xx.xx.xx.xxx
 City: SomeCity
 Region: SomeRegion
 Country: SomeCountry
