@@ -1,6 +1,4 @@
-Certainly! Here’s the README with added color for better readability, which you can use in Markdown-compatible editors or for HTML rendering:
 
----
 
 # IPTracerX
 
