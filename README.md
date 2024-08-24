@@ -26,7 +26,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/devsurajit-codes/IPTracerX.git
+   git clone https://github.com/blackXploit-404/IPTracerX.git
    ```
 
 2. **Navigate to the Directory**
@@ -109,7 +109,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact me directly at [hello@devsurajit.xyz](mailto:hello@devsurajit.xyz).
+For any questions or suggestions, please open an issue or contact me directly at getsensurajit@gmail.com
 
 ---
 
